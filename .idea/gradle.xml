@@ -8,7 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FrameAnimationSimple" />
             <option value="$PROJECT_DIR$/JsonParseSimple" />
+            <option value="$PROJECT_DIR$/activityanimationsimple" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

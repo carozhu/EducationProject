@@ -1,1 +1,2 @@
-include ':JsonParseSimple'
+include ':JsonParseSimple', ':activityanimationsimple'
+include ':FrameAnimationSimple'
