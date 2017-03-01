@@ -1,4 +1,4 @@
-package edu.httpdemo.base;
+package edu.simple.base;
 
 import android.support.v7.app.AppCompatActivity;
 

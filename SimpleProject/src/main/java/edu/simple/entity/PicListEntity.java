@@ -1,4 +1,4 @@
-package edu.httpdemo.entity;
+package edu.simple.entity;
 
 import java.util.List;
 

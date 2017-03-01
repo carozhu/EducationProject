@@ -1,9 +1,9 @@
-package edu.httpdemo.ui.activity;
+package edu.simple.ui.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import edu.httpdemo.R;
+import edu.simple.R;
 
 public class RegisterActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package edu.httpdemo;
+package edu.simple;
 
 import org.junit.Test;
 
