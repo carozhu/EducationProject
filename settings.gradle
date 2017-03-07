@@ -1,2 +1,2 @@
-include ':JsonParseSimple', ':activityanimationsimple', ':recyclerviewdemo', ':SimpleProject'
+include ':JsonParseSimple', ':activityanimationsimple', ':recyclerviewdemo', ':SimpleProject', ':customview'
 include ':FrameAnimationSimple'

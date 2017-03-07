@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/JsonParseSimple/JsonParseSimple.iml" filepath="$PROJECT_DIR$/JsonParseSimple/JsonParseSimple.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleProject/SimpleProject.iml" filepath="$PROJECT_DIR$/SimpleProject/SimpleProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityanimationsimple/activityanimationsimple.iml" filepath="$PROJECT_DIR$/activityanimationsimple/activityanimationsimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" filepath="$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" />
     </modules>
   </component>
