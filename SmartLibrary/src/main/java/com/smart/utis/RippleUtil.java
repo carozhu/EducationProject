@@ -17,7 +17,7 @@ import android.view.View;
 import java.util.Arrays;
 
 /**
- * Created by jrvansuita on 10/02/17.
+ *
  */
 
 public final class RippleUtil {

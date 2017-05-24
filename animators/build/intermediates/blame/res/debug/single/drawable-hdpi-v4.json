@@ -24,12 +24,12 @@
         "source": "/Users/caro/.android/build-cache/169e7b47e7b95a8505507c0912ad3411b5b807ce/output/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/caro/EducationWorkspace/EducationProject/animators/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/Users/caro/.android/build-cache/169e7b47e7b95a8505507c0912ad3411b5b807ce/output/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/caro/EducationWorkspace/EducationProject/animators/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/Users/caro/.android/build-cache/169e7b47e7b95a8505507c0912ad3411b5b807ce/output/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/caro/EducationWorkspace/EducationProject/animators/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/caro/.android/build-cache/169e7b47e7b95a8505507c0912ad3411b5b807ce/output/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/caro/EducationWorkspace/EducationProject/animators/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",

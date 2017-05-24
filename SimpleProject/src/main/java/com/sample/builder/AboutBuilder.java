@@ -15,12 +15,13 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.sample.utis.IntentUtil;
 import com.sample.widget.AboutView;
 import com.sample.R;
 
 import com.smart.utis.ColorUtil;
 import com.smart.utis.IconUtil;
-import com.smart.utis.IntentUtil;
+
 
 import static com.sample.R.mipmap.share;
 

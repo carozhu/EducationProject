@@ -8,7 +8,7 @@ import android.graphics.drawable.Drawable;
 import android.support.v4.content.ContextCompat;
 
 /**
- * Created by jrvansuita on 10/02/17.
+ *
  */
 
 public final class IconUtil {
