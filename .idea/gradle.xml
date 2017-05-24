@@ -11,8 +11,11 @@
             <option value="$PROJECT_DIR$/FrameAnimationSimple" />
             <option value="$PROJECT_DIR$/JsonParseSimple" />
             <option value="$PROJECT_DIR$/SimpleProject" />
+            <option value="$PROJECT_DIR$/SmartLibrary" />
             <option value="$PROJECT_DIR$/activityanimationsimple" />
+            <option value="$PROJECT_DIR$/animators" />
             <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/recyclerview-animators-master" />
             <option value="$PROJECT_DIR$/recyclerviewdemo" />
           </set>
         </option>

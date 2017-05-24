@@ -1,4 +1,4 @@
-package edu.simple;
+package edu.smart;
 
 import org.junit.Test;
 

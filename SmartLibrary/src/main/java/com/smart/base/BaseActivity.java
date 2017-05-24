@@ -1,4 +1,4 @@
-package edu.smart.base;
+package com.smart.base;
 
 import android.support.v7.app.AppCompatActivity;
 

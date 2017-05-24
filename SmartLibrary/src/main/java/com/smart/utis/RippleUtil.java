@@ -1,4 +1,4 @@
-package edu.smart.utis;
+package com.smart.utis;
 
 import android.content.res.ColorStateList;
 import android.graphics.Bitmap;

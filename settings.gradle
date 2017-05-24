@@ -1,2 +1,3 @@
-include ':JsonParseSimple', ':activityanimationsimple', ':recyclerviewdemo', ':SimpleProject', ':customview'
+include ':JsonParseSimple', ':activityanimationsimple', ':recyclerviewdemo', ':SimpleProject', ':customview', ':animators', ':recyclerview-animators-master'
 include ':FrameAnimationSimple'
+include ':SmartLibrary'

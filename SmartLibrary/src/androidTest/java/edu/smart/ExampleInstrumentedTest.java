@@ -1,4 +1,4 @@
-package edu.simple;
+package edu.smart;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,13 +1,25 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 apply plugin: 'android-apt'
-//apply plugin: 'com.neenbedankt.android-apt'//add apt
+apply plugin: 'com.neenbedankt.android-apt'//add apt
+apply plugin: 'kotlin-android'
 group = 'com.github.jrvansuita'
+//buildscript {
+//    ext.kotlin_version = '1.1.2-4'
+//    repositories {
+//        jcenter()
+//        mavenCentral()
+//
+//    }
+//}
+//dependencies{
+//    classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+//}
+
 android {
     compileSdkVersion rootProject.ext.android.compileSdkVersion
     buildToolsVersion rootProject.ext.android.buildToolsVersion
 
     defaultConfig {
-        applicationId "edu.simple"
         minSdkVersion rootProject.ext.android.minSdkVersion
         targetSdkVersion rootProject.ext.android.targetSdkVersion
         versionCode 1
@@ -64,8 +76,7 @@ dependencies {
     compile rootProject.ext.dependencies["RxPermissions"]
     /**basic  framwork library EOF ***/
 
-    //view
-    compile 'eu.long1:spacetablayout:1.0.4'//https://github.com/thelong1EU/SpaceTabLayout
-    compile 'com.github.jrvansuita:IconHandler:v2.0.0'
+    /**kotlin**/
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
 
 }

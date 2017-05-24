@@ -1,4 +1,4 @@
-package edu.smart.utis;
+package com.smart.utis;
 
 import android.view.View;
 
