@@ -12,3 +12,4 @@ captures
 .gradles
 test
 *.apk
+androidTest
