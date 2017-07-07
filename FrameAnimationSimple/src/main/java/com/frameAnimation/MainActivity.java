@@ -13,8 +13,6 @@ public class MainActivity extends Activity {
 
     private Context context;
     private FAImageView faImageView;
-    private AnimationDrawable anim;
-
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
